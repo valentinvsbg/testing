@@ -10,7 +10,6 @@ namespace TestLibrary
     {
         public string CurrentDate()
         {
-            // asdd
             return DateTime.Now.ToString();
         }
     }
