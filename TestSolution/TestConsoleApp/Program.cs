@@ -7,8 +7,9 @@ namespace TestConsoleApp
     {
         static void Main()
         {
-            TestClass a = new TestClass();
-            Console.WriteLine(a.CurrentDate());
+            // Bla bla
+            TestClass abcd = new TestClass();
+            Console.WriteLine(abcd.CurrentDate());
         }
     }
 }
